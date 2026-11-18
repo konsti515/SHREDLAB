@@ -198,3 +198,5 @@ p {
   color: #ffffffb8;
 }
 .ticker {
+  display: block;
+}
